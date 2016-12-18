@@ -1,0 +1,7 @@
+﻿﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting id="username"  type="text" label="30001"   default="" />
+        <setting id="firstrun"  type="bool" label="30002"   default="true" />
+    </category>
+</settings>

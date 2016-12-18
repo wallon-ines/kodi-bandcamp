@@ -1,0 +1,4 @@
+0.1
+ # Bugfix in get_album_tracks method.
+ # Add cover﻿
+
